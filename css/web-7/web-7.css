@@ -1,0 +1,20 @@
+img{
+        height: 100vh;
+        width: 100%;
+}
+.div{
+    width: 50% !important;
+}
+section{
+    width: 100%;
+}
+a{
+    text-decoration: none !important;
+}
+.buttom{
+    background-color: #D5DACC;
+    padding: 15px 30px;
+}
+h1{
+    font-size: 72px !important;
+}

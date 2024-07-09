@@ -1,0 +1,22 @@
+a{
+    text-decoration: none !important;
+    font-weight: bold;
+    font-size: 18 !important;
+}
+
+.a{
+  color: #00594F !important;
+}
+p{
+    text-align: end;
+    font-size: 18px;
+}
+img{
+    height: 75vh;
+    width: 250px;
+}
+b{
+    font-size: 18px;
+    position: absolute;
+    bottom: 20px;
+}

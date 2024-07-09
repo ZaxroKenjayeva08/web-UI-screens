@@ -1,0 +1,22 @@
+img{
+    height: 100vh;
+}
+h1{
+    font-size: 64px !important;
+}
+p{
+    color: #333333;
+    font-size: 24px;
+}
+input{
+    width: 320px;
+    padding: 10px 20px;
+}
+button{
+    background-color: #333333;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px !important;
+    font-size: 24px;
+}

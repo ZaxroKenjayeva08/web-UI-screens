@@ -1,0 +1,29 @@
+*{
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none !important;
+    font-weight:  bold;
+}
+.img2{
+    position: absolute;
+    right: 170px;
+}
+.img3{
+    position: absolute;
+    right: 270px;
+}
+h1{
+    font-size: 96px !important;
+    font-weight: bold;
+}
+p{
+    font-size: 36px;
+    color: #000000;
+    font-weight: 100;
+}
+b{
+    font-size: 18px;
+    font-weight: bold;
+}

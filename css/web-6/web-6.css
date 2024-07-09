@@ -1,0 +1,21 @@
+a{
+    text-decoration: none !important;
+}
+button{
+    padding: 10px 25px;
+    background-color: #ffffff;
+    border-radius: 30px !important;
+}
+.img{
+    position: absolute;
+    top: 370px;
+    left: 270px;
+}
+.img2{
+    height: 300px !important;
+}
+.div{
+    position: absolute;
+    bottom: 100px;
+    right: 180px;
+}

@@ -1,0 +1,33 @@
+a{
+    text-decoration: none !important;
+    font-weight: bold;
+}
+a:hover{
+    color: black !important;
+    border-bottom: 2px solid black !important;
+}
+.img{
+    height: 81vh;
+    width: 550px;
+}
+h1{
+    position: absolute;
+    letter-spacing: 6px;
+}
+.img2{
+    padding-top: 200px;
+}
+.div{
+    height: 300px;
+}
+span{
+   border-bottom: 1px solid #FF7064;
+   padding: 10px 20px;
+}
+button{
+    background-color: #FF7064;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px !important;
+    padding: 10px 20px;
+}

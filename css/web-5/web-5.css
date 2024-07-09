@@ -1,0 +1,32 @@
+h1{
+    font-size: 36px;
+}
+.div{
+    height: 100vh;
+}
+img{
+    height: 100vh;
+    width: 450px;
+}
+h2{
+    font-size: 64px !important;
+}
+p{
+    color: #333333;
+}
+h3{
+    font-size: 24px;
+}
+h4{
+    font-size: 24px;
+    padding-left: 120px;
+}
+span{
+    font-size: 24px;
+    color: #009E06;
+}
+h5{
+    font-size: 12px !important;
+    color: #333333;
+
+}

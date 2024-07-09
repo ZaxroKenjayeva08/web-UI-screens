@@ -1,0 +1,28 @@
+
+.span{
+    letter-spacing: 17px;
+    font-size: 60px;
+    color: #aaaaaa;
+    font-weight: 100 !important;
+    margin-bottom: 240px;
+}
+
+.img{
+    position: absolute;
+    filter:grayscale(100%);
+    width: 500px;
+    bottom: 30px;
+    left: 700px;
+}
+.img2{
+  position: absolute;
+    filter:grayscale(100%);
+    width: 500px;
+    bottom: 0px;
+    left: 650px;
+}
+.div{
+    position: absolute;
+    bottom: 0;
+   
+}

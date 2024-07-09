@@ -1,0 +1,23 @@
+b{
+    font-size: 24px;
+}
+.img{
+    height: 50vh !important;
+    width: 80%;
+}
+body{
+    height: 100vh;
+}
+.div{
+    position: absolute;
+    bottom: 10px;  
+}
+
+.img2{
+    position: absolute;
+   left: 850px;
+}
+p{
+    font-size: 24px;
+    font-weight: bold;
+}
